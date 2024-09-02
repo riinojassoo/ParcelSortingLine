@@ -1,0 +1,14 @@
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\bin\Debug\net8.0\ParcelSortingLine.exe
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\bin\Debug\net8.0\ParcelSortingLine.deps.json
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\bin\Debug\net8.0\ParcelSortingLine.runtimeconfig.json
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\bin\Debug\net8.0\ParcelSortingLine.dll
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\bin\Debug\net8.0\ParcelSortingLine.pdb
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.AssemblyInfoInputs.cache
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.AssemblyInfo.cs
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.csproj.CoreCompileInputs.cache
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.dll
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\refint\ParcelSortingLine.dll
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.pdb
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.genruntimeconfig.cache
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ref\ParcelSortingLine.dll
