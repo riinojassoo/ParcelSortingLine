@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcelSortingLine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b1868c1324fd095f076d423a5cdd99caa07ff57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f244065724d6f603b027f5dc5e2090c3f9ad3fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcelSortingLine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcelSortingLine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
