@@ -12,3 +12,4 @@ C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ref
 C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.pdb
 C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.genruntimeconfig.cache
 C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ref\ParcelSortingLine.dll
+C:\Dev\Programmeerimine\ParcelSortingLine\ParcelSortingLine\obj\Debug\net8.0\ParcelSortingLine.sourcelink.json
