@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Dev\\Programmeerimine\\ParcelSortingLine\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{17903A1C-9463-41BE-B44F-5A65F886BA96}|ParcelSortingTest\\ParcelSortingTest.csproj|c:\\dev\\programmeerimine\\parcelsortingline\\parcelsortingtest\\parceltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17903A1C-9463-41BE-B44F-5A65F886BA96}|ParcelSortingTest\\ParcelSortingTest.csproj|solutionrelative:parcelsortingtest\\parceltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{56BC7266-3B51-4E51-B875-94ED64D206A3}|ParcelSortingLine\\ParcelSortingLine.csproj|c:\\dev\\programmeerimine\\parcelsortingline\\parcelsortingline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56BC7266-3B51-4E51-B875-94ED64D206A3}|ParcelSortingLine\\ParcelSortingLine.csproj|solutionrelative:parcelsortingline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ParcelTest.cs",
+              "DocumentMoniker": "C:\\Dev\\Programmeerimine\\ParcelSortingLine\\ParcelSortingTest\\ParcelTest.cs",
+              "RelativeDocumentMoniker": "ParcelSortingTest\\ParcelTest.cs",
+              "ToolTip": "C:\\Dev\\Programmeerimine\\ParcelSortingLine\\ParcelSortingTest\\ParcelTest.cs",
+              "RelativeToolTip": "ParcelSortingTest\\ParcelTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T07:47:22.871Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Dev\\Programmeerimine\\ParcelSortingLine\\ParcelSortingLine\\Program.cs",
               "RelativeDocumentMoniker": "ParcelSortingLine\\Program.cs",
               "ToolTip": "C:\\Dev\\Programmeerimine\\ParcelSortingLine\\ParcelSortingLine\\Program.cs",
               "RelativeToolTip": "ParcelSortingLine\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAIwDIAAABkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T05:44:05.133Z",
               "EditorCaption": ""
